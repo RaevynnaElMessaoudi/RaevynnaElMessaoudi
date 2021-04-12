@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raevynna El Messaoudi
+- 👋 Hi, I’m Raevynna El Messaoudi
 - 🌱 I’m currently learning HTML, CSS and Javascript through The Code Institute
 
 <!---
