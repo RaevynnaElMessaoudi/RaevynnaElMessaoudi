@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raevynna El Messaoudi
+- 👋 Hi, I’m Rae El 
 - 🌱 I’m currently learning full stack development through the Code Institute. 
 
 <!---
